@@ -1,26 +1,26 @@
 #kob{
-     background-image: url("dlakobietwciazy2.jpg");
+     background-image: url("../images/dlakobietwciazy2.jpg");
 }
 #jog{
-    background-image: url("joga2.jpeg");
+    background-image: url("../images/joga2.jpeg");
 }
 #pil{
-    background-image: url("pilates2.jpg");
+    background-image: url("../images/pilates2.jpg");
 }
 #row{
-    background-image: url("rowery2.jpg");
+    background-image: url("../images/rowery2.jpg");
 }
 #step{
-    background-image: url("step2.jpg");
+    background-image: url("../images/step2.jpg");
 }
 #tra{
-    background-image: url("trampoliny2.png");
+    background-image: url("../images/trampoliny2.png");
 }
 #wor{
-    background-image: url("workout2.jpg");
+    background-image: url("../images/workout2.jpg");
 }
 #trenper{
-    background-image: url("trenper3.jpeg");
+    background-image: url("../images/trenper3.jpeg");
 }
 
 main{
@@ -40,7 +40,7 @@ p{
     
 }
 #cennik{
-    background-image: url("./cennik.jpg");
+    background-image: url("../images/cennik.jpg");
     background-size: cover;
 }
 #tab, th, td{

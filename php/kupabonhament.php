@@ -13,21 +13,21 @@ $bd = mysqli_connect('localhost', 'root', '', 'silka');
     <title>Siłownia</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<link rel="stylesheet" href="stylnowuzyt.css">
+<link rel="stylesheet" href="../css/stylnowuzyt.css">
 </head>
 
 <body> 
 <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-              <a class="navbar-brand" href="#"><img src="./logo3.jpg" alt="logo">   Fit Life</a>
+              <a class="navbar-brand" href="#"><img src="../images/logo3.jpg" alt="logo">   Fit Life</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link" href="./silownia.html">Strona główna</a>
+                    <a class="nav-link" href="../html/silownia.html">Strona główna</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Cennik</a>
@@ -46,7 +46,7 @@ $bd = mysqli_connect('localhost', 'root', '', 'silka');
     <main> 
         <div class="container">
 <h1>Kup abonament</h1><br><h3>Wypełnij dane</h3>
-    <form action="nowyuzytkownik.php" metoth ="GET">
+    <form action="../php/nowyuzytkownik.php" metoth ="GET">
     <label>
         <br>
     <input type="text" name="imie" id="im" placeholder="Imię"> 
