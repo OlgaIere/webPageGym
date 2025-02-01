@@ -1,0 +1,51 @@
+main{
+    background-color: black;
+    height: 900px;
+
+}
+.container{
+    background-color: #fff;
+    width: 500px;
+    text-align: center;
+    
+
+
+    
+    box-shadow: 10px 10px 15px #ccc;
+}
+input[type=text],input[type=email],select{
+    width: 300px;
+    background-color: #efefef;
+    color: #666;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    outline: none;
+    margin-top:10px;
+}
+    input[type=text]:focus,input[type=email],select:focus{
+        box-shadow: 10px 10px 15px #ccc;
+        border: 2px solid #91b6f1;
+        background-color: #dde4f3;
+        color: #3b61a9;
+
+    }
+    input[type=submit]{
+        width: 300px;
+        background-color: #6495ed;
+        font-size: 20px;
+        color: #fff;
+        padding: 15px 10px;
+        margin-top: 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        letter-spacing: 2px;
+        outline: none;
+    }
+    input[type=submit]:hover{
+        background-color: #6f9bec;
+        box-shadow: 10px 10px 15px #ccc;
+    }

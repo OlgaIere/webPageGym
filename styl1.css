@@ -1,0 +1,84 @@
+.nav-link{
+    color: white;
+}
+.rodzaje{
+    text-align: center;
+}
+.trening{
+ display: inline-block;   
+ width: 32%;
+ 
+}
+.trening img{
+    width: 100%;
+    border-radius: 30px;
+}
+.trening figure{
+    margin: 10px ;
+
+}
+.trening h4{
+    color: black;
+}
+.footer{
+    background-color: black;
+    color: white;
+    /* position: absolute; */
+    /* bottom: 0; */
+    /* width: 100%; */
+}
+.footer-icons a{
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.footer a{
+    color: white;
+}
+.footer li{
+    list-style-type: none;
+}
+.footer ul{
+    padding-left: 0;
+}
+main img{
+
+box-shadow: 10px 10px 15px #ccc;
+}
+img:hover{
+   box-shadow:15px 15px 20px grey; 
+}
+span{
+    border: 1px solid black;
+    padding: 10px;
+    height: 300px;
+}
+
+
+
+#ko{
+    background-image: url("dlakobietwciazy2.jpg");
+
+}
+#jog{
+   background-image: url("joga2.jpeg");
+}
+#pil{
+   background-image: url("pilates2.jpg");
+}
+#row{
+   background-image: url("rowery2.jpg");
+}
+#step{
+   background-image: url("step2.jpg");
+}
+#tra{
+   background-image: url("trampoliny2.png");
+}
+#wor{
+   background-image: url("workout2.jpg");
+}
+#trenper{
+   background-image: url("trenper3.jpeg");
+}
+
