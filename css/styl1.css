@@ -23,9 +23,6 @@
 .footer{
     background-color: black;
     color: white;
-    /* position: absolute; */
-    /* bottom: 0; */
-    /* width: 100%; */
 }
 .footer-icons a{
     display: inline-block;
@@ -53,32 +50,3 @@ span{
     padding: 10px;
     height: 300px;
 }
-
-
-
-#ko{
-    background-image: url("dlakobietwciazy2.jpg");
-
-}
-#jog{
-   background-image: url("joga2.jpeg");
-}
-#pil{
-   background-image: url("pilates2.jpg");
-}
-#row{
-   background-image: url("rowery2.jpg");
-}
-#step{
-   background-image: url("step2.jpg");
-}
-#tra{
-   background-image: url("trampoliny2.png");
-}
-#wor{
-   background-image: url("workout2.jpg");
-}
-#trenper{
-   background-image: url("trenper3.jpeg");
-}
-
