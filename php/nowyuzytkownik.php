@@ -1,5 +1,5 @@
 <?php
-$bd = mysqli_connect("localhost", "root", "", "silka");
+$bd = mysqli_connect("localhost", "root", "", "silownia");
 ?>
 
 <?php
